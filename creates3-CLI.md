@@ -1,6 +1,6 @@
 # How to create s3 bucket using command line.
 
-To create any AWS resource using command line you need Access key which can be created by creating an IAM User.
+To create any AWS resource using command line interface you need Access key which can be created by creating an IAM User.
   1. Create an IAM user
   2. Assign Policy, make sure user has permission to create S3 bucket.
   3. Once user is created, click on user and go to "security Credentials" tab.
